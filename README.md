@@ -76,7 +76,7 @@ Beauty as resistance — a response to the cultural war on craftsmanship.
 
 GitHub Discussions (coming soon)
 
-Email: team@palettea.org (placeholder)
+Email: palettea@yahoo.com (placeholder)
 
 Social: Instagram
  / Threads https://www.instagram.com/palettea.app/
@@ -91,5 +91,6 @@ Open source license to be determined (likely MIT or AGPL once the core codebase 
 Palettea exists to restore artistry to digital creation — giving painters, illustrators, and designers a brush engine that finally feels alive again.
 
 A cross-platform tool, built with heart, not hype.
+
 
 “Real art tools for real artists.”
