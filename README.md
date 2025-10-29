@@ -92,5 +92,7 @@ Palettea exists to restore artistry to digital creation — giving painters, ill
 
 A cross-platform tool, built with heart, not hype.
 
-
 “Real art tools for real artists.”
+
+Help this project thrive by buying us a coffee, https://buymeacoffee.com/palettea
+
